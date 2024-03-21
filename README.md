@@ -1,1 +1,1 @@
-This file is for Students Webapi Created in .net 8
+Basically Web API is a web development concept. It is limited to Web Application's client-side and also it does not include a web server or web browser details. If an application is to be used on a distributed system and to provide services on different devices like laptops, mobiles, etc then web API services are used
